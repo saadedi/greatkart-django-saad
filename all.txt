@@ -1843,4 +1843,6 @@ you add onclick
 
                                github
  git status
- git add -A                              
+ git add -A                    
+ git commit -m "srore and carts functionality"        
+ git push origin main  
